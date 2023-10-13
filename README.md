@@ -7,4 +7,5 @@ Version specific release notes are attached to each individual release, as well 
 
 Here on Github we only keep the last 2 releases per BC major version. For all previous release notes please see: https://nvision.freshdesk.com/support/solutions/folders/80000693419
 
-For more information about our Business Central Magento integration solution in general see: [https://n.vision/products/commerce-365-for-magento/](https://n.vision/products/commerce-365-for-magento/)https://n.vision/products/commerce-365-for-magento/
+For more information about our Business Central Magento integration solution in general see: 
+[https://n.vision/products/commerce-365-for-magento/](https://n.vision/products/commerce-365-for-magento/)
