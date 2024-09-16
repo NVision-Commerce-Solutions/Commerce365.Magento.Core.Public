@@ -1,9 +1,9 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest a new feature for Commerce 365 for Magento
 title: ''
-labels: ''
-assignees: ''
+labels: enhancement
+assignees: erikrijn
 
 ---
 
